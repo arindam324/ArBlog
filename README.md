@@ -5,4 +5,4 @@
 ![](public/preview.png)
 
 ## tablet preview 
-![] (public/tablet-preview.png)
+![](public/tablet-preview.png)
