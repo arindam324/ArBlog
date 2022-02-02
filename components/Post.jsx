@@ -4,7 +4,7 @@ const Post = () => {
   return (
     <article className="p-4 bg-[#282828] my-4 rounded-md shadow-xl">
       <div className="flex">
-        <h2 className="text-xl font-bold text-white -leading-4">
+        <h2 className="text-xl md:text-2xl font-bold text-white -leading-4">
           Six(6) Steps to becoming a Software Developer
         </h2>
         <img

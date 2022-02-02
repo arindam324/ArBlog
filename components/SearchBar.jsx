@@ -1,6 +1,6 @@
 const SearchBar = () => {
   return (
-    <div className="my-5 bg-[#282828] rounded-xl p-5 shadow-xl">
+    <div className="my-5 bg-[#282828]  w-full rounded-xl p-5 shadow-xl">
       <div className="flex items-center space-x-4">
         <div className="h-10 w-10 rounded-full grid place-items-center text-white font-bold bg-indigo-600">
           A
