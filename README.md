@@ -2,7 +2,7 @@
 
 ## mobile preview
 
-![](public/preview.png)
+<img src="public/preview.png" width="300px"/>
 
 ## tablet preview 
-![](public/tablet-preview.png)
+<img src="public/tablet-preview.png" width="300px"/>
